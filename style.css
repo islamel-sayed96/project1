@@ -1,0 +1,32 @@
+@media all and (min-width:993px) and (max-width:1200px){
+    body{
+        background-color: tomato;
+    }
+    p{
+        font-size: 100px;
+    }
+}
+@media all and (min-width:769px) and (max-width:992px){
+    body{
+        background-color: blue;
+    }
+    p{
+        font-size: 200px;
+    }
+}
+@media all and (min-width:601px) and (max-width:768px){
+    body{
+        background-color: yellow;
+    }
+    p{
+        font-size: 300px;
+    }
+}
+@media all and (min-width:0px) and (max-width:600px){
+    body{
+        background-color: brown;
+    }
+    p{
+        font-size: 200px;
+    }
+}
